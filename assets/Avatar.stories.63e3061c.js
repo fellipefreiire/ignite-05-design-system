@@ -1,0 +1,2 @@
+import{A as t}from"./index.90825804.js";import"./index.ecb64ecc.js";import"./iframe.bba5463f.js";import"./index.b3e6012b.js";import"./jsx-runtime.4d6a8ca7.js";const s={title:"Data display/Avatar",component:t,args:{src:"https://github.com/fellipefreiire.png",alt:"Felipe Freire"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,s as default};
+//# sourceMappingURL=Avatar.stories.63e3061c.js.map
